@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trvmrbhaw.github.io/sitemap.xml

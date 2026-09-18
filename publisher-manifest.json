@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "2f4a4e46c3361d5b29ada121",
+  "owner": "trvmrbhaw",
+  "repo": "trvmrbhaw.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "a1b76250b4dbf55af8238309",
+      "a": "几鸡(ChinaG)",
+      "b": "官方发布页",
+      "entity": "几鸡(ChinaG)",
+      "brand": "官方发布页",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f9229bf812cb34fa0c34c12e86a4f626e87652dc7cc5877d65d1e5d2f73c23c1",
+      "content": {
+        "primary_entity": "几鸡(ChinaG)",
+        "keyword1": "几鸡(ChinaG)",
+        "keyword2": "官方发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统安装对应客户端，导入订阅后即可连接使用。路由器端建议使用支持订阅功能的固件或插件。",
+          "AI_CLIENTS_TITLE": "客户端选择与配置",
+          "AI_CLOSING_TEXT": "前往购买页选择适合的套餐，按设备文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "开始选择套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档方案，可按月或按年订阅。旗舰版适合有流媒体与游戏加速需求的个人用户，团队版支持更多设备与定制路由。",
+          "AI_FAQ_ANSWER_1": "不同套餐支持的设备数量不同，基础版适合少量设备，旗舰版适合家庭多设备，团队版适合多终端同时在线。",
+          "AI_FAQ_ANSWER_2": "在对应客户端中导入订阅链接即可完成配置。首次使用建议按照客户端文档逐步操作，通常只需复制订阅地址并粘贴至客户端。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含 IPLC 专线节点，针对游戏延迟进行优化，同时支持全节点原生流媒体解锁，适合对稳定性和速度有较高要求的用户。",
+          "AI_FAQ_ANSWER_4": "基础版提供普通线路节点池，可满足网页浏览与基础流媒体使用。如需解锁全部流媒体或运行游戏加速，建议选择旗舰版。",
+          "AI_FAQ_ANSWER_5": "团队版除更大流量和更多设备数外，支持企业定制路由与专属客户经理服务，适合小型团队或有多设备管理需求的用户。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_QUESTION_1": "不同套餐支持几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "如何在客户端中导入订阅？",
+          "AI_FAQ_QUESTION_3": "旗舰版相比基础版有什么优势？",
+          "AI_FAQ_QUESTION_4": "基础版能满足流媒体解锁需求吗？",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和订阅周期三个角度选择套餐，避免性能不足或资源浪费。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合少量设备轻度使用，旗舰版支持更多设备与流媒体解锁，团队版满足多设备与定制路由需求。",
+          "AI_FEATURE_TEXT_2": "按月付费灵活，按年付费可节省费用。长期使用建议选择年付，团队版年付同样适用。",
+          "AI_FEATURE_TEXT_3": "根据日常流量消耗选择对应套餐，旗舰版与团队版提供更大流量额度，避免频繁升级。",
+          "AI_FEATURE_TITLE_1": "按设备数量选版本",
+          "AI_FEATURE_TITLE_2": "关注订阅周期",
+          "AI_FEATURE_TITLE_3": "流量与带宽匹配",
+          "AI_GUIDE_INTRO": "按照自身需求选择服务、核对设备适配要求，再依客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "几鸡(ChinaG)提供基础版、旗舰版和团队版三档套餐，支持按月或按年订阅。用户可根据设备数量、流量需求和使用场景选择合适方案。",
+          "AI_HERO_SUBTITLE": "全球节点加速，按需选择套餐",
+          "AI_HIGHLIGHT_1": "三档套餐可选，支持年付优惠",
+          "AI_HIGHLIGHT_2": "旗舰版支持流媒体与游戏加速",
+          "AI_HIGHLIGHT_3": "团队版支持多设备与定制路由",
+          "AI_PLANS_INTRO": "根据设备数量与流量需求选择基础版、旗舰版或团队版，均可按月或按年订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、流量消耗和使用场景，在基础版、旗舰版和团队版中选定套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与节点类型，确认符合当前设备与网络环境。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按照客户端文档完成配置并连接使用。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "几鸡套餐选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "248ae9aead2727a466cccba91da7e63b4549660d5636f3b6d4764b6af8a0c764",
+    "sitemap.xml": "13af34342d7581056f277a8bcaf80a00fd7c0cbed2b50f0834e4491aad949cbe",
+    "robots.txt": "946dc331b3b25eb496dbe9cefedf80ce4771065b82a25d421c5f5d370be5f558",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "059c4a389d7cf88ea6d5d0ef5947471aa8d3b2f807c0c20a57cb74f693182cad"
+}
